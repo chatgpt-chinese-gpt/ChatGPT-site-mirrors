@@ -193,6 +193,45 @@ footer a:hover {
   }
 }
 
+  /* 按钮外层容器样式 */
+.button-container {
+    text-align: center;
+    margin: 30px auto;
+}
+
+/* 通用按钮样式 */
+.custom-button {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(90deg, #007BFF, #0056D2);
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 8px rgba(0, 123, 255, 0.3);
+    margin: 10px;
+}
+
+/* 按钮悬停效果 */
+.custom-button:hover {
+    background: linear-gradient(90deg, #0056D2, #003E9A);
+    box-shadow: 0px 6px 12px rgba(0, 86, 210, 0.4);
+    transform: translateY(-2px);
+}
+
+/* 响应式布局适配 */
+@media screen and (max-width: 768px) {
+    .custom-button {
+        width: 90%;
+        display: block;
+        margin: 10px auto;
+    }
+}
+
+
 </style>
 
 <!-- You can set your favicon here -->
@@ -203,9 +242,6 @@ footer a:hover {
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://chatgpt-chinese-gpt.github.io/ChatGPT-site-mirrors/">ChatGPT-site-mirrors</a></h1>
-      
 
       <h1 id="3月持续更新国内最全-chatgpt-中文版镜像网站资源整理支持-gpt-4无需翻墙">【3月持续更新】国内最全 ChatGPT 中文版镜像网站资源整理（支持 GPT-4，无需翻墙）</h1>
 
@@ -221,6 +257,12 @@ footer a:hover {
   <li>最全面的 GPT-4 镜像站点推荐及功能测试；</li>
   <li>安全隐私建议，帮助您放心使用 AI 工具。</li>
 </ul>
+
+<div class="button-container">
+    <a href="https://chat.gptcat.net/" class="custom-button">ChatGPT中文版入口</a>
+    <a href="https://snakegpt.work/" class="custom-button">ChatGPT镜像网站入口</a>
+</div>
+
 
 <hr />
 
