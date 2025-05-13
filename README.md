@@ -42,8 +42,8 @@
 
 | **站点名称**        | **支持版本**                | **免费额度**    | **注册方式**   | **稳定性**      | **功能亮点**                                |
 |---------------------|---------------------------|----------------|----------------|-----------------|--------------------------------------------|
-| [snakegpt.chat](https://snakegpt.chat)   | GPT-4, GPT-3.5      | 有免费额度       | 国内邮箱注册    | ⭐⭐⭐⭐⭐      | 支持 GPT-4o 和 MJ 绘图功能，适合开发者和普通用户 |
-| [gptcat.cc](https://gptcat.cc)         | GPT-4, GPT-o1       | 有免费额度     | 国内邮箱注册 | ⭐⭐⭐⭐⭐      | 语音实时对话支持，Claude 模型混合体验          |
+| [snakegpt.com.cn](https://snakegpt.com.cn)   | GPT-4, GPT-3.5      | 有免费额度       | 国内邮箱注册    | ⭐⭐⭐⭐⭐      | 支持 GPT-4o 和 MJ 绘图功能，适合开发者和普通用户 |
+| [chat2.gptcat.cc](https://chat2.gptcat.cc)         | GPT-4, GPT-o1       | 有免费额度     | 国内邮箱注册 | ⭐⭐⭐⭐⭐      | 语音实时对话支持，Claude 模型混合体验          |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)     | GPT-4, GPT-3.5      | 有免费额度     | 国内邮箱注册      | ⭐⭐⭐⭐       | 为开发者提供 API 调用支持，系统长期稳定运行      |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5             | 有免费额度     | 国内邮箱注册    | ⭐⭐⭐        | 功能覆盖基础聊天需求，适合新手入门              |
 
@@ -52,7 +52,7 @@
 ## **如何快速开始使用？（详细教程）**
 
 1. **访问站点**  
-   - 直接选择推荐站点，例如：[snakegpt.chat](https://snakegpt.chat)。  
+   - 直接选择推荐站点，例如：[snakegpt.com.cn](https://snakegpt.com.cn)。  
 
 2. **注册和认证**  
    - 使用邮箱或扫码注册即可快速登录。部分站点支持免注册体验，但完整功能建议注册后解锁。  
@@ -70,12 +70,12 @@
 在多个推荐站点中，选择最适合自己的取决于以下几个因素：
 
 ### 1. **功能需求**
-   - 寻求专业功能（如绘画、代码生成）：推荐 [snakegpt.chat](https://snakegpt.chat)。  
-   - 需要语音交互或 Claude 服务：选择 [gptcat.cc](https://gptcat.cc)。  
+   - 寻求专业功能（如绘画、代码生成）：推荐 [snakegpt.com.cn](https://snakegpt.com.cn)。  
+   - 需要语音交互或 Claude 服务：选择 [chat2.gptcat.cc](https://chat2.gptcat.cc)。  
    - 针对开发者：API 调用首选 [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)。  
 
 ### 2. **价格与免费额度**
-   - 初学者或预算有限用户：选择支持免费额度的[gptcat.cc](https://gptcat.cc)。  
+   - 初学者或预算有限用户：选择支持免费额度的[chat2.gptcat.cc](https://chat2.gptcat.cc)。  
    - 深度用户：优先考虑 SnakeGPT 或 GPTCat，功能全面且性价比佳。
 
 ### 3. **访问速度与稳定性**
