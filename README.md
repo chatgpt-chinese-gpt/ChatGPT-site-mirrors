@@ -43,7 +43,7 @@
 | **站点名称**        | **支持版本**                | **免费额度**    | **注册方式**   | **稳定性**      | **功能亮点**                                |
 |---------------------|---------------------------|----------------|----------------|-----------------|--------------------------------------------|
 | [snakegpt.com.cn](https://snakegpt.com.cn)   | GPT-4, GPT-3.5      | 有免费额度       | 国内邮箱注册    | ⭐⭐⭐⭐⭐      | 支持 GPT-4o 和 MJ 绘图功能，适合开发者和普通用户 |
-| [chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc)         | GPT-4, GPT-o1       | 有免费额度     | 国内邮箱注册 | ⭐⭐⭐⭐⭐      | 语音实时对话支持，Claude 模型混合体验          |
+| [chat2.chat2.chat2.gptcat.cc](https://chat2.chat2.chat2.gptcat.cc)         | GPT-4, GPT-o1       | 有免费额度     | 国内邮箱注册 | ⭐⭐⭐⭐⭐      | 语音实时对话支持，Claude 模型混合体验          |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)     | GPT-4, GPT-3.5      | 有免费额度     | 国内邮箱注册      | ⭐⭐⭐⭐       | 为开发者提供 API 调用支持，系统长期稳定运行      |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5             | 有免费额度     | 国内邮箱注册    | ⭐⭐⭐        | 功能覆盖基础聊天需求，适合新手入门              |
 
@@ -71,11 +71,11 @@
 
 ### 1. **功能需求**
    - 寻求专业功能（如绘画、代码生成）：推荐 [snakegpt.com.cn](https://snakegpt.com.cn)。  
-   - 需要语音交互或 Claude 服务：选择 [chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc)。  
+   - 需要语音交互或 Claude 服务：选择 [chat2.chat2.chat2.gptcat.cc](https://chat2.chat2.chat2.gptcat.cc)。  
    - 针对开发者：API 调用首选 [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)。  
 
 ### 2. **价格与免费额度**
-   - 初学者或预算有限用户：选择支持免费额度的[chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc)。  
+   - 初学者或预算有限用户：选择支持免费额度的[chat2.chat2.chat2.gptcat.cc](https://chat2.chat2.chat2.gptcat.cc)。  
    - 深度用户：优先考虑 SnakeGPT 或 GPTCat，功能全面且性价比佳。
 
 ### 3. **访问速度与稳定性**
@@ -127,3 +127,4 @@ AI 自动生成 PPT、项目总结或邮件模版，高效替代重复性工作�
 🌟 **如果本文对您有帮助，请点亮 Star，分享给您的朋友！**
                                                                  
          
+ 
