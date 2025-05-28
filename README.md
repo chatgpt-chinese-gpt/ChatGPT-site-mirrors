@@ -7,7 +7,10 @@
 阅读本文，您将获得：  
 - 最高效的国内 ChatGPT 镜像访问方法； 
 - 最全面的 GPT-4 镜像站点推荐及功能测试；
-- 安全隐私建议，帮助您放心使用 AI 工具。 
+- 安全隐私建议，帮助您放心使用 AI 工具。
+
+ChatGPT中文版：[gptcat.cc](https://gptcat.cc) 
+ChatGPT镜像网站：[snakegpt.com.cn](https://snakegpt.com.cn)
 
 ---
 
@@ -43,7 +46,7 @@
 | **站点名称**        | **支持版本**                | **免费额度**    | **注册方式**   | **稳定性**      | **功能亮点**                                |
 |---------------------|---------------------------|----------------|----------------|-----------------|--------------------------------------------|
 | [snakegpt.com.cn](https://snakegpt.com.cn)   | GPT-4, GPT-3.5      | 有免费额度       | 国内邮箱注册    | ⭐⭐⭐⭐⭐      | 支持 GPT-4o 和 MJ 绘图功能，适合开发者和普通用户 |
-| [chat2.gptcat.cc](https://chat2.gptcat.cc)         | GPT-4, GPT-o1       | 有免费额度     | 国内邮箱注册 | ⭐⭐⭐⭐⭐      | 语音实时对话支持，Claude 模型混合体验          |
+| [gptcat.cc](https://gptcat.cc)         | GPT-4, GPT-o1       | 有免费额度     | 国内邮箱注册 | ⭐⭐⭐⭐⭐      | 语音实时对话支持，Claude 模型混合体验          |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)     | GPT-4, GPT-3.5      | 有免费额度     | 国内邮箱注册      | ⭐⭐⭐⭐       | 为开发者提供 API 调用支持，系统长期稳定运行      |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5             | 有免费额度     | 国内邮箱注册    | ⭐⭐⭐        | 功能覆盖基础聊天需求，适合新手入门              |
 
