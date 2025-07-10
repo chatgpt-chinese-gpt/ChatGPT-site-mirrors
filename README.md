@@ -1,6 +1,6 @@
 # 【6月持续更新】国内最全 ChatGPT中文版镜像网站资源整理（支持 GPT-4，无需翻墙）
  
-> **更新时间： 2025/07/09**                       
+> **更新时间： 2025/07/10**                       
 
 无需翻墙，轻松访问 GPT-4 和 ChatGPT 的最新服务！本项目为您全面整理了国内可用的 **ChatGPT 镜像站资源**，涵盖站点推荐、功能对比、免费额度和详细使用教程，助您快速找到最适合的站点，无论是日常对话还是专业需求。
 
@@ -74,11 +74,11 @@ ChatGPT镜像网站：[snakegpt.vip](https://snakegpt.vip)
 
 ### 1. **功能需求**
    - 寻求专业功能（如绘画、代码生成）：推荐 [snakegpt.vip](https://snakegpt.vip)。  
-   - 需要语音交互或 Claude 服务：选择 [chat2.gptcat.cc](https://chat2.gptcat.cc)。  
+   - 需要语音交互或 Claude 服务：选择 [gptcat.cc](https://gptcat.cc)。  
    - 针对开发者：API 调用首选 [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)。  
 
 ### 2. **价格与免费额度**
-   - 初学者或预算有限用户：选择支持免费额度的[chat2.gptcat.cc](https://chat2.gptcat.cc)。  
+   - 初学者或预算有限用户：选择支持免费额度的[gptcat.cc](https://gptcat.cc)。  
    - 深度用户：优先考虑 SnakeGPT 或 GPTCat，功能全面且性价比佳。
 
 ### 3. **访问速度与稳定性**
